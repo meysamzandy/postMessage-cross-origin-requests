@@ -1,5 +1,3 @@
-# postMessage-cross-origin-requests
-
 postMessage cross origin requests
 ---------------------------------
 
